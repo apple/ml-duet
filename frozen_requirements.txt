@@ -1,0 +1,9 @@
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.0.3
+torch==2.0.1
+torchvision==0.15.2
+timm==0.6.5
+kornia==0.6.12
+dm-tree==0.1.8
+flit==3.2
